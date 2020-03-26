@@ -1,5 +1,4 @@
 # penetration-testing
-penetration testing
 
 
 * 안드로이드
