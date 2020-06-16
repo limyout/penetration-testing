@@ -61,3 +61,11 @@
   
   - Frida / 후킹
 
+
+
+# IDA
+
+AndroidManifest.xml 파일에 debuggable속성을 넣어줘서 리패키징 필요
+
+IDA PRO버전 -> 원격 디버깅 가능
+
